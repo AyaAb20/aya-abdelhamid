@@ -99,5 +99,7 @@
   },
   "cli": {
     "analytics": "797d8e16-1393-4867-910d-bc2911e7d934"
-  }
+  },
+  "defaultProject": "portfolio"
+  
 }
